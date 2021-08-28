@@ -25,6 +25,5 @@
  <img align="center" alt="Thiago-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
 
-  
-  ![Snake animation](https://github.com/Thiago-cez/thiagocezario/blob/output/github-contribution-grid-snake.svg)
+ <--![Snake animation](https://github.com/Thiago-cez/thiagocezario/blob/output/github-contribution-grid-snake.svg)-->
 
