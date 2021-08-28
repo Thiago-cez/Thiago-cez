@@ -4,7 +4,7 @@
 
 ### About me
 - I'm 25 years old
-- Marriaged
+- Marriage
 - I'm a fullstack web developer looking for Opportunities to Start in Web developer Carrer.
 
 
