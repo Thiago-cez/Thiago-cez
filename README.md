@@ -14,9 +14,10 @@
       ❤️ I'm a Classical music lover and Like to play Violin and Viola.
       
       🌱 I’m currently learning Java.
+      
+      
     
-
-⭐ Statistics and Languages
+  ⭐ Statistics and Languages 
 
 <div>
   <a href="https://github.com/Thiago-cez/thiagocezario"> 
