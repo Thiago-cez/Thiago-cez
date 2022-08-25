@@ -27,7 +27,7 @@
   
 ###    
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js,ts,figma,java,nextjs,mysql,nodejs,react,tailwind,firebase,graphql)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,ts,figma,java,nextjs,mysql,nodejs,react,tailwind,firebase,graphql,scss)](https://skills.thijs.gg)
 
 
 
