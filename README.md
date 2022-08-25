@@ -24,7 +24,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-cez&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-###    
+
+### 💻 Stack I Work With
+
   
   [![My Skills](https://skills.thijs.gg/icons?i=js,ts,figma,java,nextjs,mysql,nodejs,react,tailwind,firebase,graphql,prisma,express,scss)](https://skills.thijs.gg)
 
