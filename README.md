@@ -16,8 +16,7 @@
       🌱 I’m currently learning Java.
       
       
- .
-  ⭐ Statistics and Languages 
+###⭐ Statistics and Languages 
 
 <div>
   <a href="https://github.com/Thiago-cez/thiagocezario"> 
