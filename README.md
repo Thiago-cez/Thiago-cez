@@ -26,9 +26,6 @@
   
 
 ### 💻 Stack I Work With
-   
-
-
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   [![My Skills](https://skills.thijs.gg/icons?i=js,ts,figma,java,nextjs,mysql,nodejs,react,tailwind,firebase,graphql,prisma,express,scss)](https://skills.thijs.gg)
 
