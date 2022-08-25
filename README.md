@@ -5,9 +5,8 @@
 
    ### About me
                                                                            
-                                                                           
-    - I'm 26 years old
-    - I'm a fullstack web developer with good practices in maintaining and building web pages. I like to craft solid and scalable web pages with great user experience.
+    - I'm a fullstack web developer with good practices in maintaining and building web pages. 
+    - I like to craft solid and scalable web pages with great user experience.
 
 
 <div>
