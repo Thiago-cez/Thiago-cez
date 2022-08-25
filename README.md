@@ -12,6 +12,8 @@
       👉I like to craft solid and scalable web pages with great user experience.
       
       ❤️ I'm a Classical music lover and Like to play Violin and Viola.
+      
+      🌱 I’m currently learning Java.
     
 
 
