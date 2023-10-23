@@ -6,13 +6,11 @@
    
       💻 I'm a Software Developer 
       
-      🙋‍♂️a fullstack web developer with good practices in maintaining and building web pages. 
+      🙋‍♂️fullstack web developer, with good practices in maintaining and building web pages. 
        
       👉I like to craft solid and scalable web pages with great user experience.
       
-      ❤️ I'm a Classical music lover and Like to play Violin and Viola.
-      
-      🌱 I’m currently learning Java.
+      🌱 I’m currently learning Vue.js.
       
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------      
 ### ⭐ Statistics and Languages 
