@@ -22,6 +22,6 @@
 </div>
   
 
-### 💻 Stack I Work With
+### 💻 Stack I Work With:
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   [![My Skills](https://skills.thijs.gg/icons?i=js,ts,figma,java,nextjs,mysql,nodejs,react,tailwind,firebase,graphql,prisma,express,scss,vercel)](https://skills.thijs.gg)
