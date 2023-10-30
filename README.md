@@ -8,7 +8,7 @@
       
       🙋‍♂️fullstack web developer, with good practices in maintaining and building web pages. 
        
-      👉I like to craft solid and scalable web pages with great user experience.
+      👉I like to craft solid and scalable web pages with great user experience .
       
       🌱 I’m currently learning Vue.js.
       
