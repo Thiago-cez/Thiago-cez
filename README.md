@@ -4,7 +4,7 @@
 
    ### About me
    
-      💻 I'm a Software Developer 
+      💻 I'm a Software Developer.
       
       🙋‍♂️fullstack web developer, with good practices in maintaining and building web pages. 
        
